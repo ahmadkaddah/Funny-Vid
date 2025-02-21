@@ -1,6 +1,10 @@
 const videos = [
     "https://www.youtube.com/embed/CBhPICxBrkE?autoplay=1&controls=0&modestbranding=1&rel=0",
     "https://www.youtube.com/embed/gACuL507tO0?autoplay=1&controls=0&modestbranding=1&rel=0",
+    "https://www.youtube.com/embed/6-nR-NNzPrg?autoplay=1&controls=0&modestbranding=1&rel=0",
+    "https://www.youtube.com/embed/_-xPdAxeROw?autoplay=1&controls=0&modestbranding=1&rel=0",
+    "https://www.youtube.com/embed/dFVEh2cJo2s?autoplay=1&controls=0&modestbranding=1&rel=0",
+    "https://www.youtube.com/embed/nmd0IuVd2lo?autoplay=1&controls=0&modestbranding=1&rel=0",
     "https://www.youtube.com/embed/GuWx_PP1Sf8?autoplay=1&controls=0&modestbranding=1&rel=0"
 ];
 
